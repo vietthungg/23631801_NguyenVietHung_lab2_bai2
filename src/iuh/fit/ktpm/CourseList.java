@@ -11,7 +11,7 @@ public class CourseList {
     /**
      *  them 1 khoa hoc vao danh sach
      *  neu khoa hoc da ton tai thi khong them vao
-     * @param course
+     * @param
      * @return
      */
     public boolean addCourse(Course course) {
